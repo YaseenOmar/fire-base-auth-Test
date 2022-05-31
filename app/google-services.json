@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372222023349",
+    "project_id": "authfirebaseapp-baf97",
+    "storage_bucket": "authfirebaseapp-baf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372222023349:android:c7faad38d1b765399b90fc",
+        "android_client_info": {
+          "package_name": "com.kradwan.authfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372222023349-9l55v3ic05tbort1dio5jmqgk9rt8rj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiOOwwkQnUOA6PTe2RQ7i_sEw0ezglh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372222023349-9l55v3ic05tbort1dio5jmqgk9rt8rj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
